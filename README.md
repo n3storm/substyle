@@ -10,6 +10,7 @@ You have to follow instructions in http://www.reposstyle.com/.
 When everything is working with default theme, clone or drop substyle folder inside reposstyle directory.
 Also, set the following in you Apache virtualhost file:
 
+```
 <VirtualHost>
 .... your settings ...
    <Directory /var/www-tools/reposstyle/>
@@ -24,3 +25,8 @@ Also, set the following in you Apache virtualhost file:
      SVNIndexXSLT "/reposstyle/substyle/view/repos.xsl"
   </Location>
 </VirtualHost>
+```
+
+## SCREENSHOT
+
+[[docs/screenshot.png]]
