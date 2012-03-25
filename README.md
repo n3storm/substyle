@@ -30,3 +30,8 @@ Also, set the following in you Apache virtualhost file:
 ## SCREENSHOT
 
 [[docs/screenshot.png]]
+
+## TODO
+
+Everything we needed is there, and Reposstyle is not being updated,
+but there is a problem when using latest jQuery library 1.7.2 and if you solve it please pull us :)
